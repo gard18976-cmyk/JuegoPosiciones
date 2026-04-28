@@ -1,0 +1,18 @@
+#image-container {
+    width: 300px;
+    height: 200px;
+    border: 1px solid #000;
+    margin-bottom: 10px;
+}
+
+#position-button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#position-button:hover {
+    background-color: #0056b3;
+}
